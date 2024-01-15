@@ -1,16 +1,20 @@
-### Hi there 👋
+# Welcome to My GitHub Profile
 
-<!--
-**Pearljam66/Pearljam66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello there! I'm Sarah, a seasoned Senior iOS Developer passionate about crafting high-quality mobile applications and pushing the boundaries of user experiences.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📱 Over 8 years of experience in iOS app development and 10 years in software development.
+- 🛠️ Proficient in Swift and Objective-C, with a deep understanding of iOS frameworks.
+- 🌐 Experienced in creating apps with robust architecture, scalability, and performance optimization.
+- 📦 Expertise in integrating third-party libraries and APIs.
+- 🎨 Strong UI/UX design sense, ensuring visually appealing and user-friendly applications.
+- 💻 Comfortable with agile development methodologies and version control systems.
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** Swift, Objective-C
+- **Frameworks:** UIKit, SwiftUI, Core Data, SwiftData, Combine
+- **Tools:** Xcode, Git, Cocoapods
+- **Design Patterns:** MVC, MVVM
+
