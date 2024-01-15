@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-👋 Hello there! I'm Sarah, a seasoned Senior iOS Developer passionate about crafting high-quality mobile applications and pushing the boundaries of user experiences.
+👋 Hello there! I'm Sarah, a seasoned Senior iOS Developer passionate about crafting high-quality mobile applications and constantly learning.
 
 ## 🚀 About Me
 
