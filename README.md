@@ -10,11 +10,13 @@
 - 📦 Expertise in integrating third-party libraries and APIs.
 - 🎨 Strong UI/UX design sense, ensuring visually appealing and user-friendly applications.
 - 💻 Comfortable with agile development methodologies and version control systems.
+- 🕵🏻‍♀️ Experienced in security auditing and the end to end build process including submitting to the App Store.
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Swift, Objective-C
-- **Frameworks:** UIKit, SwiftUI, Core Data, SwiftData, Combine
-- **Tools:** Xcode, Git, Cocoapods
+- **Languages:** Swift, Objective-C, JavaScript, TypeScript, Python, Java
+- **Frameworks:** UIKit, SwiftUI, Core Data, SwiftData, Combine, XCTest, ArcGIS SDK, MapKit, and more.
+- **Tools:** Xcode, Git, Cocoapods, SPM, Visual Studio Code, SwiftLint, Jenkins
 - **Design Patterns:** MVC, MVVM
+- **OS's:** iOS, iPadOS, watchOS, macOS, and visionOS
 
