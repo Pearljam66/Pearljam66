@@ -15,7 +15,7 @@
 ## 🛠️ Technologies & Tools
 
 - **Languages:** Swift, Objective-C, JavaScript, TypeScript, Python, Java
-- **Frameworks:** UIKit, SwiftUI, Core Data, SwiftData, Combine, XCTest, ArcGIS SDK, MapKit, and more.
+- **Frameworks:** UIKit, SwiftUI, Core Data, XCTest, ArcGIS SDK, MapKit, and more.
 - **Tools:** Xcode, Git, Cocoapods, SPM, Visual Studio Code, SwiftLint, Jenkins
 - **Design Patterns:** MVC, MVVM
 - **OS's:** iOS, iPadOS, watchOS, macOS, and visionOS
