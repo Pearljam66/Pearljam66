@@ -16,7 +16,7 @@
 
 - **Languages:** Swift, Objective-C, JavaScript, TypeScript, Python, Java
 - **Frameworks:** UIKit, SwiftUI, Core Data, XCTest, Concurrency, MapKit, and more.
-- **Tools:** Xcode, Git, Cocoapods, SwiftPM, Visual Studio Code, SwiftLint, Jenkins, TestFlight, App Store Connect
+- **Tools:** Xcode, Git, Cocoapods, SwiftPM, Visual Studio Code, SwiftLint, Jenkins, Jira, TestFlight, App Store Connect
 - **Design Patterns:** MVC, MVVM
 - **OS's:** iOS, iPadOS, watchOS, macOS, and visionOS
 
