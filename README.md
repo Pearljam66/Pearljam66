@@ -17,7 +17,7 @@
 - **Languages:** Swift, Objective-C, JavaScript, TypeScript, Python, Java
 - **Frameworks:** UIKit, SwiftUI, Core Data, XCTest, Concurrency, MapKit, and more.
 - **Tools:** Xcode, Git, Cocoapods, SwiftPM, Visual Studio Code, SwiftLint, Jenkins, Jira, TestFlight, App Store Connect
-- **Architecture Patterns:** MVC, MVVM, VIPER
+- **Architecture Patterns:** MVC, MVVM, and VIPER
 - **Design Patterns:** Singleton, Observer, Delegate, Factory, Strategy, Iterator, Build, Multicast delegate, Facade, Composite, Memento
 - **OS's:** iOS, iPadOS, watchOS, macOS, and visionOS
 
