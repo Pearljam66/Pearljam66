@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-👋 Hello there! I'm Sarah, a seasoned Senior iOS Developer passionate about crafting high-quality mobile applications and constantly learning.
+👋 Hello there! I'm Sarah, a seasoned Senior Software Developer passionate about crafting high-quality mobile applications and constantly learning.
 
 ## 🚀 About Me
 
@@ -14,7 +14,7 @@
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Swift, Objective-C, JavaScript, TypeScript, Python, Java
+- **Languages:** Swift, Objective-C, JavaScript, TypeScript, Python, Java, C++
 - **Frameworks:** UIKit, SwiftUI, Core Data, XCTest, Concurrency, MapKit, and more.
 - **Tools:** Xcode, Git, Cocoapods, SwiftPM, Visual Studio Code, SwiftLint, Jenkins, Jira, TestFlight, App Store Connect
 - **Architecture Patterns:** MVC, MVVM, and VIPER
