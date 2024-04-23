@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-- 📱 Over 8 years of experience in app development and 10 years in software development.
+- 📱 Over 8 years of experience in iOS app development and 10 years of overall software development.
 - 🛠️ Proficient in Swift and Objective-C, with a deep understanding of iOS frameworks.
 - 🌐 Experienced in creating apps with robust architecture, scalability, and performance optimization.
 - 📦 Expertise in integrating third-party libraries and APIs.
