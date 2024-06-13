@@ -16,7 +16,7 @@
 ## 🛠️ Technologies & Tools
 
 - **Languages:** Swift, Objective-C, Python, C++, Java
-- **Frameworks:** UIKit, SwiftUI, Core Data, XCTest, Concurrency, MapKit, and more.
+- **Frameworks:** UIKit, SwiftUI, Core Data, XCTest, Swift Testing, Concurrency, MapKit, and more.
 - **Tools:** Xcode, IntelliJ, Git, Cocoapods, SwiftPM, Visual Studio Code, SwiftLint, Jenkins, Jira, TestFlight, App Store Connect
 - **Architecture Patterns:** MVC, MVVM
 - **Design Patterns:** Singleton, Observer, Delegate, Dependency Injection
