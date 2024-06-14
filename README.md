@@ -14,9 +14,9 @@
 - 📚 Solid grasp of computer science fundamentals, enriching my ability to design efficient algorithms and data structures.
 
 ## 🛠️ Machine Learning Technologies & Tools (WIP)
-- **Languages** Python, SQL
-- **Frameworks**
-- **Tools** 
+- **Languages:** Python, SQL
+- **Frameworks:**
+- **Tools:** 
 
 ## 🛠️ Apple Platform Technologies & Tools
 
