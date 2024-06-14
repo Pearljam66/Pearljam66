@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-- 📱 Over 8 years of experience in iOS app development and 10 years of overall software development.
+- 📱 Over 10 years of overall software development, 8 of those years are iOS app development.
 - 🛠️ Proficient in Swift and Objective-C, with a deep understanding of iOS frameworks.
 - 🌐 Experienced in creating apps with robust architecture, scalability, and performance optimization.
 - 📦 Expertise in integrating third-party libraries and APIs.
@@ -13,7 +13,12 @@
 - 🕵🏻‍♀️ Experienced in security auditing and the end to end build process including submitting to the App Store.
 - 📚 Solid grasp of computer science fundamentals, enriching my ability to design efficient algorithms and data structures.
 
-## 🛠️ Technologies & Tools
+## 🛠️ Machine Learning Technologies & Tools (WIP)
+- **Languages** Python, SQL
+- **Frameworks**
+- **Tools** 
+
+## 🛠️ Apple Platform Technologies & Tools
 
 - **Languages:** Swift, Objective-C, Python, C++, Java
 - **Frameworks:** UIKit, SwiftUI, Core Data, XCTest, Swift Testing, Concurrency, MapKit, and more.
@@ -21,4 +26,6 @@
 - **Architecture Patterns:** MVC, MVVM
 - **Design Patterns:** Singleton, Observer, Delegate, Dependency Injection
 - **OS's:** iOS, iPadOS, watchOS, macOS, and visionOS
+
+
 
