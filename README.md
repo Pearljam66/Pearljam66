@@ -13,7 +13,7 @@
 - 🕵🏻‍♀️ Experienced in security auditing and the end to end build process including submitting to the App Store.
 - 📚 Solid grasp of computer science fundamentals, enriching my ability to design efficient algorithms and data structures.
 
-## 🛠️ Machine Learning Technologies & Tools (WIP)
+## ⚒️ Machine Learning Technologies & Tools (WIP)
 - **Languages:** Python, SQL
 - **Frameworks:**
 - **Tools:** 
