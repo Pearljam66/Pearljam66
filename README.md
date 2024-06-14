@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-- 📱 Over 10 years of overall software development.
+- 📱 Over 10 years of overall software development experience.
 - 🤖 Experienced in machine learning with expertise in model development, deployment, and management.
 - 🛠️ Proficient in Swift and Objective-C, with a deep understanding of iOS frameworks.
 - 🌐 Experienced in creating apps with robust architecture, scalability, and performance optimization.
