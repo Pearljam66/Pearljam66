@@ -15,7 +15,7 @@
 - 📚 Solid grasp of computer science fundamentals, enriching my ability to design efficient algorithms and data structures.
 - 🧠 Skilled in machine learning languages such as Python, SQL, C++, and Java.
 
-## 🤖 Machine Learning Engineer
+## 🤖 Machine Learning Engineer (These are currently only my learning goals, will update later when knowledge is fully acquired.)
 
 - **Languages:** Python, SQL, C++, Java
 - **Frameworks:** TensorFlow, PyTorch, Scikit-learn, Keras, XGBoost, LightGBM, H2O.ai
