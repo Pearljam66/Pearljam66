@@ -15,14 +15,14 @@
 - 📚 Solid grasp of computer science fundamentals, enriching my ability to design efficient algorithms and data structures.
 - 🧠 Skilled in machine learning languages such as Python, SQL, C++, and Java.
 
-## 🤖 Machine Learning Engineer (These are currently only my learning goals, will update later when knowledge is fully acquired.)
+## 🤖 Machine Learning Engineer
 
 - **Languages:** Python, SQL, C++, Java
-- **Frameworks:** TensorFlow, PyTorch, Scikit-learn, Keras, XGBoost, LightGBM, H2O.ai
-- **Development Environments:** Jupyter Notebooks, Google Colab, Azure Machine Learning Studio
-- **Model Deployment and Management:** TensorFlow Serving, MLflow, Kubeflow, Seldon
-- **Data Processing Tools:** Apache Spark, Pandas, Dask
-- **Specialized Tools:** OpenCV, NLTK, Spacy, Gensim
+- **Frameworks:** 
+- **Development Environments:** Jupyter Notebooks
+- **Model Deployment and Management:** 
+- **Data Processing Tools:**
+- **Specialized Tools:** 
 
 ## 🍎 Apple Platforms Engineer
 
