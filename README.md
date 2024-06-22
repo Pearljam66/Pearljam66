@@ -15,15 +15,6 @@
 - 📚 Solid grasp of computer science fundamentals, enriching my ability to design efficient algorithms and data structures.
 - 🧠 Skilled in machine learning languages such as Python, SQL, C++, and Java.
 
-## 🤖 Machine Learning Engineer
-
-- **Languages:** Python, SQL, C++, Java
-- **Frameworks:** 
-- **Development Environments:** Jupyter Notebooks
-- **Model Deployment and Management:** 
-- **Data Processing Tools:**
-- **Specialized Tools:** 
-
 ## 🍎 Apple Platforms Engineer
 
 - **Languages:** Swift, Objective-C, Python, C++
@@ -32,6 +23,15 @@
 - **Architecture Patterns:** MVC, MVVM
 - **Design Patterns:** Singleton, Observer, Delegate, Dependency Injection
 - **OS's:** iOS, iPadOS, watchOS, macOS, and visionOS
+
+## 🤖 Machine Learning Engineer
+
+- **Languages:** Python, SQL, C++, Java
+- **Frameworks:** 
+- **Development Environments:** Jupyter Notebooks
+- **Model Deployment and Management:** 
+- **Data Processing Tools:**
+- **Specialized Tools:** 
 
 
 
