@@ -23,7 +23,7 @@
 - **Design Patterns:** Singleton, Observer, Delegate, Dependency Injection
 - **OS's:** iOS, iPadOS, watchOS, macOS, and visionOS
 
-## 🤖 Machine Learning Engineer
+## 🤖 Machine Learning Engineer (Currently learning)
 
 - **Languages:** Python, SQL, C++, Java
 - **Frameworks:** 
