@@ -20,7 +20,7 @@
 - **Frameworks:** UIKit, SwiftUI, Core Data, XCTest, Swift Testing, Concurrency, MapKit, SwiftData and more.
 - **Tools:** Xcode, IntelliJ, Git, Cocoapods, SwiftPM, Visual Studio Code, SwiftLint, Jenkins, Jira, TestFlight, App Store Connect
 - **Architecture Patterns:** MVC, MVVM
-- **Design Patterns:** Singleton, Observer, Delegate, Dependency Injection
+- **Design Patterns:** Singleton, Observer, Delegate, Dependency Injection, Coordinator
 - **OS's:** iOS, iPadOS, watchOS, macOS, and visionOS
 
 <!--- ## 🤖 Machine Learning Engineer (to be added)
