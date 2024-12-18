@@ -16,7 +16,7 @@
 
 ## 🍎 Apple Platforms Engineer
 
-- **Languages:** Swift, Objective-C, Python, C++
+- **Languages:** Swift, Objective-C
 - **Frameworks:** UIKit, SwiftUI, Core Data, XCTest, Swift Testing, Concurrency, MapKit, SwiftData and more.
 - **Tools:** Xcode, IntelliJ, Git, Cocoapods, SwiftPM, Visual Studio Code, SwiftLint, Jenkins, Jira, TestFlight, App Store Connect
 - **Architecture Patterns:** MVC, MVVM
