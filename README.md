@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-👋🏻 Hello! I'm Sarah, a seasoned Senior Software Developer passionate about crafting high-quality code and constantly learning.
+👋🏻 Hello there! I'm Sarah, a seasoned Senior Software Developer passionate about crafting high-quality code and constantly learning.
 
 ## 🚀 About Me
 
