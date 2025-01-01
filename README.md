@@ -10,7 +10,7 @@
 - 📦 Expertise in integrating third-party libraries and APIs.
 - 🎨 Strong UI/UX design sense, ensuring visually appealing and user-friendly applications.
 - 💻 Comfortable with Agile development methodologies and version control systems.
-- 🕵🏻‍♀️ Experienced in security auditing and the end-to-end build process, including submitting to the App Store.
+- 🕵🏻‍♀️ Experienced in security auditing and the end-to-end build process, including submitting to the App Store, App Connect, and Test Flight.
 - 📚 Solid grasp of computer science fundamentals, enriching my ability to design efficient algorithms and data structures.
 - 🧠 Skilled in additional languages such as Python, C++, and Java.
 
