@@ -43,5 +43,12 @@
 - **Tools:** Jira, Figma, Visual Studio Code, Xcode, Android Studio
 - **Testing:** Appium, Selenium
 
-## 
+## 🤖 Machine Learning & AI
+
+- **Languages:** Python, Swift
+- **Frameworks:** TensorFlow
+- **Focus Areas:** Prompt Engineering, Code Generation
+- **Development:** Jupyter Notebooks, Visual Studio Code
+- **Evaluation:** Code Analysis, Performance Optimization, Security Assessment
+
 
