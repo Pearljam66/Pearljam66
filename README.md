@@ -20,7 +20,7 @@
 ## 🍎 Apple Platforms Engineer
 
 - **Languages:** Swift, Objective-C, Python
-- **Frameworks:** UIKit, SwiftUI, Core Data, XCTest, Swift Testing, Concurrency, MapKit, GraphQL, Combine, Journaling Suggestions, HealthKit, MusicKit
+- **Frameworks:** UIKit, SwiftUI, Core Data, SwiftData, XCTest, Swift Testing, Concurrency, MapKit, GraphQL, Combine, Journaling Suggestions, HealthKit, MusicKit
 - **Tools:** Xcode, Git, Cocoapods, SwiftPM, Visual Studio Code, SwiftLint, Jenkins, Jira, TestFlight, App Store Connect, Sketch
 - **Architecture Patterns:** MVC, MVVM
 - **Design Patterns:** Singleton, Observer, Delegate, Dependency Injection, Coordinator
